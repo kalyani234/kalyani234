@@ -11,6 +11,7 @@ I'm a Software Test Engineer and AI Enthusiast with experience in IT.
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-472B9E?style=flat&logo=appium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/-TestNG-FF8300?style=flat&logo=testng&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=microsoft-playwright&logoColor=white)
 
 ### 📊 Data Science Tools
 
@@ -25,6 +26,7 @@ I'm a Software Test Engineer and AI Enthusiast with experience in IT.
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ### 🚀 Projects
 Here are some of my key projects:
