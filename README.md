@@ -30,6 +30,7 @@ I'm a Software Test Engineer and AI Enthusiast with experience in IT.
 
 ### 🚀 Projects
 Here are some of my key projects:
+- [Playwright SauceDemo BDD UI API K6](https://github.com/kalyani234/saucedemo-playwright-bdd-framework)
 - [Drug-Drug Prediction Interaction using Proteins](https://github.com/kalyani234/DDI_Project_Code)
 - [Rest API Automation Spotify](https://github.com/kalyani234/RestAssuredFrameworkSpotify)
 - [Machine_Learning](https://github.com/kalyani234/machine-learning-projects)
