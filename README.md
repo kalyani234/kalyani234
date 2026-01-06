@@ -28,6 +28,9 @@ I'm a Software Test Engineer and AI Enthusiast with experience in IT.
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
+### Course Completion Certications Link
+[IT Certifications](https://github.com/kalyani234/Technical_Certificates)
+
 ### 🚀 Projects
 Here are some of my key projects:
 - [Playwright SauceDemo BDD UI API K6](https://github.com/kalyani234/saucedemo-playwright-bdd-framework)
