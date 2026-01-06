@@ -39,5 +39,5 @@ Here are some of my key projects:
 - [MATLAB_Fuzzy_Logic_intelligent flat disabled residence](https://github.com/kalyani234/Fuzzy_logics_Matlab)
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/navya-kalyani-699a908a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/navya-anantha-699a908a/)
 
