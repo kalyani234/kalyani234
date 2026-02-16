@@ -33,6 +33,10 @@ I'm a Software Test Engineer and AI Enthusiast with experience in IT.
 
 ### 🚀 Projects
 Here are some of my key projects:
+- [AI Agents n8n CrewAI Zapier](https://github.com/kalyani234/AI_Agents_Projects)
+- [n8n Lead Magnet Delivery + Onboarding Automation Funnel](https://github.com/kalyani234/leadMagnetDelivery_OnboardingAutomationFunnel_n8n)
+- [Azure-YOLO Receipt Parser](https://github.com/kalyani234/azure-receipt-analyzer)
+- [Enterprise Knowledge Copilot)](https://github.com/kalyani234/enterprise-knowledge-copilot)
 - [Playwright SauceDemo BDD UI API K6](https://github.com/kalyani234/saucedemo-playwright-bdd-framework)
 - [OpenWeather API Test Automation Framework (Python / PyTest)](https://github.com/kalyani234/openweather-api-pytest-framework)
 - [Drug-Drug Prediction Interaction using Proteins](https://github.com/kalyani234/DDI_Project_Code)
