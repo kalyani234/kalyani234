@@ -36,6 +36,7 @@ I'm a Software Test Engineer and AI Enthusiast with experience in IT.
 
 ### 🚀 Projects
 Here are some of my key projects:
+- [Fraud Detection using LLM LAngchain ReAct Framework](https://github.com/kalyani234/fraud_detection_LLM)
 - [AI Agents n8n CrewAI Zapier](https://github.com/kalyani234/AI_Agents_Projects)
 - [n8n Lead Magnet Delivery + Onboarding Automation Funnel](https://github.com/kalyani234/leadMagnetDelivery_OnboardingAutomationFunnel_n8n)
 - [Azure-YOLO Receipt Parser](https://github.com/kalyani234/azure-receipt-analyzer)
